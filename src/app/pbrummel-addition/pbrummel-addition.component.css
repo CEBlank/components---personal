@@ -30,3 +30,10 @@
   margin-top: 0.5%;
   margin-bottom: 2%;
 }
+
+mat-card {
+  margin-left: 5pt;
+  margin-right: 5pt;
+  padding: 5pt;
+  width: 85%;
+}
